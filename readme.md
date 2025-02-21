@@ -1,4 +1,4 @@
-# Personal Website  
+# My Portfolio Website 
 
 ## About the Website  
 This is my personal portfolio website, designed to provide a structured overview of my **educational background, professional experience, projects, and technical skills**. It serves as a centralized platform where visitors can explore my work, expertise, and achievements in a professional manner.  
